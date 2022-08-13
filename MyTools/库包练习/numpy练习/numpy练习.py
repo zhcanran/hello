@@ -10,7 +10,6 @@ a2=np.array(l1)
 a3=np.asarray(l1)
 
 a4=a2+a3
-print(a2)
 print(a3)
 print(a4)
 
