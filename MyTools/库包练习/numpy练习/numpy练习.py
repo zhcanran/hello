@@ -31,3 +31,7 @@ print(c)
 #创建（2，3）形状，均值为0，标准差为1的，符合正太分布的数据
 d=np.random.normal(0,1,(2,3))
 print(d)
+
+r=np.arange(10)
+print(r)
+print(np.clip(r,3,6)) #对数据做阶段，控制范围
