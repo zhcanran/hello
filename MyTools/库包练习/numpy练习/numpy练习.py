@@ -10,8 +10,8 @@ a2=np.array(l1)
 a3=np.asarray(l1)
 
 a4=a2+a3
+
 print(a2)
-print(a3)
 print(a4)
 
 #np.prod()函数用来计算所有元素的乘积，对于有多个维度的数组可以指定轴，如axis=1指定计算每一行的乘积。
