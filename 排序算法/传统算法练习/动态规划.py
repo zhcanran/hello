@@ -63,3 +63,4 @@ if __name__ == '__main__':
     ]
     print(max_distine(D))
     print(max_distine2(D))
+    print('haha')
